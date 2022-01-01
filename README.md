@@ -14,3 +14,8 @@
 
 
 ## Screenshots
+<img width="843" alt="Carousel" src="https://user-images.githubusercontent.com/56012784/147859924-35b5253a-ae61-4943-948c-ceb24d4da0cc.png">
+
+
+https://user-images.githubusercontent.com/56012784/147859963-84dd29ea-737f-4e46-b347-f5608ff95657.mov
+
